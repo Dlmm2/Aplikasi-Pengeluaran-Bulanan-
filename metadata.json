@@ -1,0 +1,6 @@
+{
+  "name": "ArthaBulan - Kelola Keuangan & Anggaran Bulanan",
+  "description": "Aplikasi cerdas untuk mengelola uang bulanan, mencatat pengeluaran dan pemasukan, serta visualisasi grafik anggaran interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
